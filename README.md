@@ -2,6 +2,4 @@
 
 ## Neural Machine Translation using PyTorch -- English to French
 
-(Work in progress)
-
-This repo will contain the different stages of my capstone project and the final report.
+The goal of this project is to build a neural machine translation model to translate between English and French phrases. This project was performed as the second of two independent capstone projects for the Data Science program at Springboard. 
